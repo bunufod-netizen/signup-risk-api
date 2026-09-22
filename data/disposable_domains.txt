@@ -1,0 +1,13 @@
+# One domain per line. Replace this file with an updated source as needed.
+mailinator.com
+guerrillamail.com
+10minutemail.com
+temp-mail.org
+tempmail.com
+throwawaymail.com
+getnada.com
+maildrop.cc
+yopmail.com
+dispostable.com
+trashmail.com
+fakeinbox.com
